@@ -26,8 +26,8 @@ wydarzenia specjalne oraz poprawki balansu. Społeczność graczy jest bardzo ak
 i tworzy poradniki oraz treści fanowskie.
 
 ## Obrazy
-![Logo League of Legends](https://upload.wikimedia.org/wikipedia/en/7/77/League_of_Legends_logo.png)
-![Mapa Summoner's Rift](https://upload.wikimedia.org/wikipedia/commons/7/7e/Summoners_Rift.png)
+![Logo League of Legends](https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/565197caf987af4e4da307df6e2b235a28714736-837x469.jpg?accountingTag=LoL)
+![Mapa Summoner's Rift](https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Summoner%27s_Rift_map_s14.png/revision/latest?cb=20240302220623)
 
 ## Informacje o grze
 | Cecha | Opis |
